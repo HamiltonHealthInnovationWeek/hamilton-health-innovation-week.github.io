@@ -1,8 +1,8 @@
 # Site Settings
-title: 'Hamilton Health Innovation Week'
-description: 'A week of healthcare innovation events in Hamilton, Ontario'
-url: 'https://hamiltonhealthinnovationweek.github.io' # the base hostname & protocol for your site
-footer_text: 'This text is footer text. Footer text goes here.'
+title: 'Hamilton Health Innovation Week 2017 • April 26th – 30th'
+description: 'Hamilton, Ontario <br /> Join health innovators as they share how to turn inspiration into innovation!'
+url: 'http://hamiltonhealthinnovationweek.ca' # the base hostname & protocol for your site
+footer_text: ''
 
 # Admin Settings
 admin_name: 'Hacking Health Hamilton'
