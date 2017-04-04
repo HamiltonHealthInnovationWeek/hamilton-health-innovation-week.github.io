@@ -2,7 +2,7 @@
 title: 'Hamilton Health Innovation Week 2017 • April 26th – 30th'
 description: 'Hamilton, Ontario <br /> Join health innovators as they share how to turn inspiration into innovation!'
 url: 'http://hamiltonhealthinnovationweek.ca' # the base hostname & protocol for your site
-footer_text: ''
+footer_text: 'Created and hosted by <a href="http://hhhamilton.ca">Hacking Health Hamilton</a>.'
 
 # Admin Settings
 admin_name: 'Hacking Health Hamilton'
